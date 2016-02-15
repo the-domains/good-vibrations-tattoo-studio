@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-15T06:00:14.534Z'
-dateModified: '2016-02-15T06:00:11.141Z'
+datePublished: '2016-02-15T05:58:41.365Z'
+dateModified: '2016-02-15T05:58:37.868Z'
 title: "GOOD VIBRATIONS \_TATTOO STUDIO"
 author: []
 sourcePath: _posts/2016-02-15-good-vibrations-tattoo-studio.md
