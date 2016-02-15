@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[GOOD VIBRATIONS TATTOO STUDIO]]></title>
         <description><![CDATA[GOOD VIBRATIONS TATTOO STUDIO]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/good-vibrations-tattoo-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 05:40:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 05:50:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/good-vibrations-tattoo-studio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OPENING HOURS]]></title>
+            <description><![CDATA[<article><h1>OPENING HOURS</h1><p>MONDAY: 10 - 5</p></article>]]></description>
+            <link>https://thegrid.ai/good-vibrations-tattoo-studio/opening-hours/index.html</link>
+            <guid isPermaLink="false">2b8a9d10-0737-40d4-b4e5-b905a9f953e4</guid>
+            <pubDate>Mon, 15 Feb 2016 05:50:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GOOD VIBRATIONS  TATTOO STUDIO]]></title>
             <description><![CDATA[<article><h1>GOOD VIBRATIONS  TATTOO STUDIO</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18e7cfe6965583095afe595de0bd7dcbdc913e89.jpg"></article>]]></description>
-            <link>undefinedgood-vibrations-tattoo-studio/index.html</link>
+            <link>https://thegrid.ai/good-vibrations-tattoo-studio/good-vibrations-tattoo-studio/index.html</link>
             <guid isPermaLink="false">ce2ba989-4455-4a3c-b38e-fce6b38d821a</guid>
             <pubDate>Mon, 15 Feb 2016 05:40:36 GMT</pubDate>
         </item>
