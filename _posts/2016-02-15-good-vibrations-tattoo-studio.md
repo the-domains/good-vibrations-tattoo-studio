@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-15T05:57:01.860Z'
-dateModified: '2016-02-15T05:56:50.425Z'
+datePublished: '2016-02-15T06:00:14.534Z'
+dateModified: '2016-02-15T06:00:11.141Z'
 title: "GOOD VIBRATIONS \_TATTOO STUDIO"
 author: []
 sourcePath: _posts/2016-02-15-good-vibrations-tattoo-studio.md
