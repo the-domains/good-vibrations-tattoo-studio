@@ -1,19 +1,4 @@
-name: GOOD VIBRATIONS TATTOO STUDIO
-favicon: null
-layout_spectrum: 0.50851
-typography_spectrum: 0.36011
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#2b2223'
@@ -23,6 +8,11 @@ color:
     - '#e5e8a2'
   brandStrength: 0
   lightness: 0
+  rhythmicContrast: 0.10473
   saturation: 0.5
-  rhythmicContrast: 0.5
+cta: {}
+layout_spectrum: 0.50851
+name: GOOD VIBRATIONS TATTOO STUDIO
+opengraph: {}
 purpose: []
+typography_spectrum: 0.36011
