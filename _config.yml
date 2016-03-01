@@ -6,10 +6,10 @@ color:
     - '#864e2f'
     - '#ca8860'
     - '#e5e8a2'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0
   rhythmicContrast: 1
-  saturation: 1
+  saturation: 0.839527
 cta: {}
 layout_spectrum: 0.50851
 name: GOOD VIBRATIONS TATTOO STUDIO
