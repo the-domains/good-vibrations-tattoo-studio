@@ -1,14 +1,15 @@
 ---
-dateModified: '2016-05-27T13:45:39.110Z'
-description: 30 days of night
-inFeed: true
-title: ''
+title: '30 days of night '
+datePublished: '2016-08-18T16:04:03.417Z'
+dateModified: '2016-08-18T16:03:58.135Z'
 author: []
+inFeed: true
+description: 30 days of night
+publisher: {}
+via: {}
 starred: false
-datePublished: '2016-06-03T12:53:23.816Z'
 sourcePath: _posts/2016-06-03-30-days-of-night.md
-_context: 'http://schema.org'
-_type: Article
+_type: Blurb
 
 ---
-![30 days of night](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9746e11-18b5-464f-9697-2444a8b3bede.jpg)
+# 30 days of night ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/633d8321563cb3e007b185fb481b1a73a975a9d1.jpg)
