@@ -6,13 +6,15 @@ color:
     - '#864e2f'
     - '#ca8860'
     - '#e5e8a2'
-  brandStrength: 0
-  lightness: 0
-  rhythmicContrast: 1
-  saturation: 0.839527
+  brandStrength: 0.022312195040285587
+  lightness: 0.35303883627057076
+  rhythmicContrast: 0.3246054407209158
+  saturation: 0.08914528507739305
 cta: {}
-layout_spectrum: 0.50851
+layout_spectrum: 0.5812765657901764
 name: GOOD VIBRATIONS TATTOO STUDIO
 opengraph: {}
 purpose: []
-typography_spectrum: 0.36011
+typography_spectrum: 0.4851848434191197
+coverPrefs:
+  filter: false
